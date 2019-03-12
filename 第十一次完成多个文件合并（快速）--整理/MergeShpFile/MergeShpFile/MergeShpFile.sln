@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeShpFile", "ReadShpStepByStep\MergeShpFile.csproj", "{A23E26B4-2581-4149-8677-6CF17A8F0162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23E26B4-2581-4149-8677-6CF17A8F0162}.Debug|x86.ActiveCfg = Debug|x86
+		{A23E26B4-2581-4149-8677-6CF17A8F0162}.Debug|x86.Build.0 = Debug|x86
+		{A23E26B4-2581-4149-8677-6CF17A8F0162}.Release|x86.ActiveCfg = Release|x86
+		{A23E26B4-2581-4149-8677-6CF17A8F0162}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

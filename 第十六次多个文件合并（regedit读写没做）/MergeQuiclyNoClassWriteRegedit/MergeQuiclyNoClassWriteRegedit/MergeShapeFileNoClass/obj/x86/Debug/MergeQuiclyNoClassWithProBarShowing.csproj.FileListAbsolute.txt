@@ -1,0 +1,38 @@
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithProBarShowing\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWithBackgroundWorker\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb

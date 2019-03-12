@@ -1,0 +1,8 @@
+ TimeSpan ts1 = new TimeSpan(DateTime.Now.Ticks); //获取当前时间的刻度数
+
+            ShapeFileFunction.MergeManyShpFile(files, TargetFile);
+
+            TimeSpan ts2 = new TimeSpan(DateTime.Now.Ticks);
+            TimeSpan ts = ts2.Subtract(ts1).Duration(); //时间差的绝对值 
+            String spanTime = ts.Hours.ToString() + "小时" + ts.Minutes.ToString() + "分" + ts.Seconds.ToString() + "秒" + ts.Milliseconds.ToString() + "毫秒"; //以X小时X分X秒的格式现实执行时间 
+            MessageBox.Show("合并结束，耗时" + spanTime);

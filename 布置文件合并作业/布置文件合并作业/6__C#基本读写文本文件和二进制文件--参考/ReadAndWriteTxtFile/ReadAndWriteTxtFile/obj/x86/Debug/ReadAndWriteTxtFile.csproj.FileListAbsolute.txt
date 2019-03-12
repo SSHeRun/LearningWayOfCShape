@@ -1,0 +1,10 @@
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\bin\Debug\ReadAndWriteTxtFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\bin\Debug\ReadAndWriteTxtFile.pdb
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.pdb
+D:\My Documents\Visual Studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.ReadAndWriteTxtFile.resources
+D:\My Documents\Visual Studio 2010\Projects\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.csprojResolveAssemblyReference.cache
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.exe
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteTxtFile\ReadAndWriteTxtFile\obj\x86\Debug\ReadAndWriteTxtFile.pdb

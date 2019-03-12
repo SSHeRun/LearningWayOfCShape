@@ -1,0 +1,12 @@
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+D:\My Documents\Visual Studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+E:\思宙合作\培训\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+E:\思宙合作\培训\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb

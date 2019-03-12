@@ -1,0 +1,2 @@
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb

@@ -1,0 +1,4 @@
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpMerger1\bin\Debug\ShpMerger1.dll
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpMerger1\bin\Debug\ShpMerger1.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpMerger1\obj\Debug\ShpMerger1.dll
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpMerger1\obj\Debug\ShpMerger1.pdb

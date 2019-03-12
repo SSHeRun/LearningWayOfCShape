@@ -1,0 +1,25 @@
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\download\Program For Student2\Program For Student\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\公司合作\training\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+D:\公司合作\training\2015年4月培训\C_Training_Excise\MergeQuiclyNoClassWriteRegedit\MergeShapeFileNoClass\obj\x86\Debug\MergeQuiclyNoClassWriteRegedit.csproj.GenerateResource.Cache

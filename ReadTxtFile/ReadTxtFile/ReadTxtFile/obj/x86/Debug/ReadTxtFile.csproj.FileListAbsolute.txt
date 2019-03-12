@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\bin\Debug\ReadTxtFile.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\bin\Debug\ReadTxtFile.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\ReadTxtFile.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\ReadTxtFile.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\ReadTxtFile.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ReadTxtFile\ReadTxtFile\obj\x86\Debug\ReadTxtFile.pdb

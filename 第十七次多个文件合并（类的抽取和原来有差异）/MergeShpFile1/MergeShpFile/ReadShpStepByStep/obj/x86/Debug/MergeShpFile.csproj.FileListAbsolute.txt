@@ -1,0 +1,20 @@
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.MergeShpFile.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.MergeShpFile.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\bin\Debug\ShpMerger1.dll
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ReadShpStepByStep\bin\Debug\ShpMerger1.pdb
+C:\Users\Administrator\Desktop\第十七次多个文件合并（类的抽取和原来有差异）\MergeShpFile1\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+C:\Users\Administrator\Desktop\第十七次多个文件合并（类的抽取和原来有差异）\MergeShpFile1\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb

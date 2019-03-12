@@ -1,0 +1,7 @@
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.exe
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.pdb
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.ReadShpStepByStep.resources
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+d:\my documents\visual studio 2010\Projects\ReadShpStepByStep\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb

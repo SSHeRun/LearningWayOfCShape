@@ -1,0 +1,11 @@
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\bin\Debug\MergeShapeFileNoClass.pdb
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Form1.resources
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.Properties.Resources.resources
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesQuiclyNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.exe
+C:\Users\xuyong.APTHINKGEO\Documents\C#Training_Excise\MergeManyShapeFilesQuiclyNoClass\MergeShapeFileNoClass\obj\x86\Debug\MergeShapeFileNoClass.pdb

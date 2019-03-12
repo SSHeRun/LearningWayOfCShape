@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.MergeShpFile.resources
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\MergeTwoFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\bin\Debug\ReadShpStepByStep.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.MergeShpFile.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\MergeShpFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\第十一次完成多个文件合并（快速）--整理\MergeShpFile\MergeShpFile\ReadShpStepByStep\obj\x86\Debug\ReadShpStepByStep.pdb

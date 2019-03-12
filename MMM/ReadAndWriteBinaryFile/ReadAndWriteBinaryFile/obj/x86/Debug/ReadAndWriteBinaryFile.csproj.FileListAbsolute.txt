@@ -1,0 +1,101 @@
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+d:\my documents\visual studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+D:\My Documents\Visual Studio 2010\Projects\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+E:\公司合作--稍后整理\training\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+E:\思宙合作\培训\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+E:\思宙合作\培训\2015年4月培训\2015年讲课程序备份\第二次基本读写文本文件和二进制文件--完善\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+E:\思宙合作\培训\2017年9月培训\布置文件合并作业\布置文件合并作业\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\6__C#基本读写文本文件和二进制文件--参考\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\hhh\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\ReadAndWriteBinaryFile9023\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#语言\kkk\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\kkk - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\JJJ\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\bin\Debug\ReadAndWriteBinaryFile.pdb
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Form1.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.Properties.Resources.resources
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.GenerateResource.Cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.exe
+C:\Users\圣三一\Desktop\·\学习资料\C#语言\LLL - 副本\ReadAndWriteBinaryFile\ReadAndWriteBinaryFile\obj\x86\Debug\ReadAndWriteBinaryFile.pdb

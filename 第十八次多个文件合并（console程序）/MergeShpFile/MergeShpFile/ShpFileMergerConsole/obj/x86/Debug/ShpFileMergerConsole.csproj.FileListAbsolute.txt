@@ -1,0 +1,14 @@
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpFileMergerConsole.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpFileMergerConsole.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpMerger1.dll
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpMerger1.pdb
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ShpFileMergerConsole.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ShpFileMergerConsole.exe
+D:\My Documents\Visual Studio 2010\Projects\MergeShpFile222\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ShpFileMergerConsole.pdb
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ShpFileMergerConsole.exe
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ShpFileMergerConsole.pdb
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpFileMergerConsole.exe
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpFileMergerConsole.pdb
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpMerger1.dll
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\bin\Debug\ShpMerger1.pdb
+C:\Users\Administrator\Desktop\第十八次多个文件合并（console程序）\MergeShpFile\MergeShpFile\ShpFileMergerConsole\obj\x86\Debug\ResolveAssemblyReference.cache
